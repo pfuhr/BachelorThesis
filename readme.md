@@ -1,11 +1,8 @@
 The following files are included:
 
-Bachelor_Thesis.pdf: My Bachelor Thesis, for those that would like to read it in a digital format.
-
-Relevant code is in the folder code.
+Relevant code is in this folder.
 We did not include any datasets, as they were too large. Please reach out to s6pafuhr@uni-bonn.de, if you are interested in the datasets or more detailed explanations regarding the code. 
-You can find a copy of the content on this usb-stick at https://github.com/pfuhr/BachelorThesis. I plan to clean and organize this repo in the upcoming weeks.
-
+You can find a copy of the content on the usb-stick at https://github.com/pfuhr/BachelorThesis.
 
 Files in the folder code:
 
