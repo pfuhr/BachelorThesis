@@ -35,16 +35,22 @@ illustrates how i computed the first metric
 eval_log_probs.py
 illustrates how i computed the second metric
 
-#Posterior Predictive Checks
+**Posterior Predictive Checks** 
+
 helper_ppc.py:
 provides the functionality to do posterior predictive checks
+
 concrete realization in ppc_generate_datasets.py and organized_ppc.py
 
-#Validation Scheme Assessing Overconfidence
+**Validation Scheme Assessing Overconfidence**
+
 helper_uc.py: provides the basic functionality
+
 uc_generate_datasets.py: code to generate samples from estimated q(\theta|x_0)
+
 uc_plot.py: analysis of the samples
 
-#SBC
+**SBC**
+
 sbc.py: illustrates how i used the the functionality for simulation-based calibration provided in the SBI repo
 
