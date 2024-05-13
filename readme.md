@@ -38,9 +38,7 @@ illustrates how i computed the second metric
 **Posterior Predictive Checks** 
 
 helper_ppc.py:
-provides the functionality to do posterior predictive checks
-
-concrete realization in ppc_generate_datasets.py and organized_ppc.py
+provides the functionality to do posterior predictive checks, concrete realization in ppc_generate_datasets.py and organized_ppc.py
 
 **Validation Scheme Assessing Overconfidence**
 
