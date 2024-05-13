@@ -48,5 +48,3 @@ uc_plot.py: analysis of the samples
 #SBC
 sbc.py: illustrates how i used the the functionality for simulation-based calibration provided in the SBI repo
 
-#emissions folder
-provides csv files for tracked emissions
